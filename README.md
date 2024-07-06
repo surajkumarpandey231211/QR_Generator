@@ -7,7 +7,7 @@ Displays the generated QR code.
 
 # How to Use
 #Clone the repository:
-git clone https://github.com/surajkumarpandey231211/qr-code-generator.git
+git clone https://github.com/surajkumarpandey231211
 
 Navigate to the project directory:
 cd qr-code-generator
@@ -16,7 +16,7 @@ Open index.html in your web browser.
 Enter text or a URL in the input field.
 Click the "Generate QR Code" button.
 The QR code will be displayed on the page.
- #Technologies Used
+# Technologies Used
 HTML
 CSS
 JavaScript
